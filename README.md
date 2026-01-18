@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Ferreira SAMP
-
+[![my name is Ferreira](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## 💻 Sobre mim
 Sou desenvolvedor focado em **SA-MP (Pawn)** e **desenvolvimento web**.  
 Crio sistemas, gamemodes, scripts e painéis web com foco em **organização, performance e qualidade.**
