@@ -2,18 +2,20 @@
 [![my name is Ferreira](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile;My+name+is+Dayvid+Ferreira;Founder+Developer+Formosa+Multiplayers)](https://git.io/typing-svg)
 ## 💻 Sobre mim
 Sou desenvolvedor focado em **SA-MP (Pawn)** e **desenvolvimento web**.  
-em 2022 fundei o **Formosa Multiplayers** uma rede de servidores com foco em uma imersão do fivem dentro do sa:mp.
+em 2022 fundei o **Formosa Multiplayers** uma rede de servidores com foco em uma imersão do fivem dentro do SA:MP.
 o **projeto PvP** se encontra on-line mas em desenvolvimento ip: `PvP.FormosaMP.com.br:9090`
 nosso **Projeto Roleplay** se encontra em desenvolvimento até então.. ip: `Fivem.FormosaMP.com.br:7777`
 
 ---
 ## 🛠 Tecnologias que uso
-![open.mp](https://img.shields.io/badge/open.mp-Community-blueviolet) 
-![Pawn](https://img.shields.io/badge/Pawn-SA--MP-rede)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Git](https://img.shields.io/badge/Git-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pawn-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/open.mp-6A5ACD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-000080?style=for-the-badge&logoColor=white"/>
+</p>
 
 ---
 
@@ -38,7 +40,7 @@ EM BREVE...
 >
 >Nossa plataforma foi pensada para ser **simples o suficiente para qualquer pessoa usar**, mas poderosa o bastante para.
 >
->  **entregar controle financeiro real**, com gráficos, métricas e **análises mensais detalhadas**, compativel com qualquer dispositivo. 📈🌍
+>  **entregar controle financeiro real**, com gráficos, métricas e **análises mensais detalhadas**, compativel com qualquer dispositivo.📈🌍
 
 ## 📈 Meus stats
 
@@ -50,13 +52,13 @@ EM BREVE...
 ## 📬 GTA Formosa SA:MP
 <p align="center">
   <a href="https://instagram.com/gtaformosa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/bwbNPEERMm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:formosamultiplayers@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -64,20 +66,23 @@ EM BREVE...
 ## 📬 Controle Financeiro Total Pessoal
 <p align="center">
   <a href="https://instagram.com/cftotal.online" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-008000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/JyxrnMNfgT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://discord.gg/JyxrnMNfgT" target="_blank">
+    <img src="https://img.shields.io/badge/Site-32CD32?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
   <a href="mailto:cftotalsuporte@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ## 📬 Equipe Fênix Community
 <p align="center">
   <a href="https://www.instagram.com/equipefenixcommunity/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-D2691E?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/hXJtVmvpPU" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
