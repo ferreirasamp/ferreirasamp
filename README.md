@@ -10,11 +10,11 @@ nosso **Projeto Roleplay** se encontra em desenvolvimento até então.. ip: `Fiv
 ## 🛠 Tecnologias que uso
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-A020F0?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pawn-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/open.mp-6A5ACD?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-000080?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pawn-FF6F00?style=for-the-badge&logo=smart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/open.mp-6A5ACD?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-000080?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -93,5 +93,12 @@ EM BREVE...
 ⚡ Sempre aberto a colaborações
 
 ![Discord](https://img.shields.io/badge/Discord-blue)
+![VS Code](https://img.shields.io/badge/SA:MP-red)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blueviolet)
+
+<p align="center">
+  <a href="https://instagram.com/gtaformosa" target="_blank">
+    <img src="https://i.imgur.com/N4JF8OU.jpeg"/>
+  </a>
+</p>
